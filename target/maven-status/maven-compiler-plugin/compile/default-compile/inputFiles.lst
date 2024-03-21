@@ -1,0 +1,15 @@
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/Model/User.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/Service/UserService.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/dto/ChatGPTRequest.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/controller/PromptController.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/controller/CustomBotController.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/ChatbootApplication.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/Service/PrompService.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/dto/Response.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/config/OpenAIConfig.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/controller/UserController.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/Model/Prompt.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/dto/ChatGPTResponse.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/controller/WelcomeController.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/dto/Message.java
+/Users/alhuzwiri/Documents/lab/Web/JAVA/chatboot/src/main/java/com/chatboot/dto/LoginUser.java

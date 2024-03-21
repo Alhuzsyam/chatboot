@@ -1,0 +1,16 @@
+com/chatboot/Model/User.class
+com/chatboot/controller/UserController.class
+com/chatboot/dto/ChatGPTResponse.class
+com/chatboot/controller/PromptController.class
+com/chatboot/Model/Prompt.class
+com/chatboot/dto/LoginUser.class
+com/chatboot/config/OpenAIConfig.class
+com/chatboot/controller/WelcomeController.class
+com/chatboot/Service/PrompService.class
+com/chatboot/dto/Message.class
+com/chatboot/dto/Response.class
+com/chatboot/dto/ChatGPTResponse$Choice.class
+com/chatboot/controller/CustomBotController.class
+com/chatboot/Service/UserService.class
+com/chatboot/ChatbootApplication.class
+com/chatboot/dto/ChatGPTRequest.class
