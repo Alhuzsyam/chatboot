@@ -53,7 +53,7 @@ public class UserController {
 }
 
 
-    @GetMapping("/login")
+    @PostMapping("/login")
     public Response<Object> loginUser(@RequestBody LoginUser loginRequest) {
         // return userService.findByEmailAndPassword(loginRequest.getEmail(), loginRequest.getPassword());
         try{
